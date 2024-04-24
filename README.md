@@ -19,4 +19,4 @@ Run `main.py` to execute the MDP model. The program calculates the optimal traff
 
 ## Repository Structure
 - `main.py`: Contains the MDP model and the main algorithm for the project.
-- `data/Data.csv`: Stores the traffic data used for calculating transition probabilities.
+- `Data.csv`: Stores the traffic data used for calculating transition probabilities.
